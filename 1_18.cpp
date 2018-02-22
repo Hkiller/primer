@@ -13,7 +13,6 @@ int main()
                 cnt = 1;
             }
         }
-        
         std::cout << currVal << " occurs " << cnt << " times " << std::endl;
     }
     return 0;
